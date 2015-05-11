@@ -1,0 +1,12 @@
+#include "opencvfacedetect.h"
+
+OpenCVfaceDetect::OpenCVfaceDetect(QObject *parent): OpenCVaction(parent)
+{
+
+}
+
+OpenCVfaceDetect::~OpenCVfaceDetect()
+{
+
+}
+

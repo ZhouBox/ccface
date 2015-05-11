@@ -1,0 +1,15 @@
+#ifndef OPENCVFACEDETECT_H
+#define OPENCVFACEDETECT_H
+#include "opencvaction.h"
+
+
+class OpenCVfaceDetect : public OpenCVaction
+{
+public:
+    OpenCVfaceDetect(QObject *parent = 0);
+    ~OpenCVfaceDetect();
+    
+    void action(IplImage *imgin, IplImage *&imgout);
+};
+
+#endif // OPENCVFACEDETECT_H
