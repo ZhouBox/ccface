@@ -15,5 +15,3 @@
 ![识别](./image/3.png)
 
 
-**程序地址：**
-https://git.oschina.net/zhouX/ccface.git
