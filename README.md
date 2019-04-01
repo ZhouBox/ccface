@@ -1,3 +1,8 @@
+
+
+[![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
+
 #ccface
 ##介绍
 这个我闲的蛋疼无聊做的一个人脸检测和识别的小程序。
